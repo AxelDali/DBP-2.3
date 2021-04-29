@@ -1,0 +1,722 @@
+[
+    {
+        "id": 1,
+        "precio": 19.99,
+        "descripcion":"leche",
+        "clasificacion":"lacteos",
+        "existencia": 50,
+        "min":20,
+        "max":80
+    },
+    {
+        "id": 2,
+        "precio": 7.67,
+        "descripcion":"refresco de cola",
+        "clasificacion":"bebidas",
+        "existencia": 36,
+        "min":24,
+        "max":100
+    },
+    {
+        "id": 3,
+        "precio": 32.90,
+        "descripcion":"aceite vegetal",
+        "clasificacion":"alimentos",
+        "existencia": 8,
+        "min":5,
+        "max":30
+    },
+    {
+        "id": 4,
+        "precio": 16,
+        "descripcion":"leche evaporada",
+        "clasificacion":"alimentos",
+        "existencia": 12,
+        "min":8,
+        "max":20
+    },
+    {
+        "id": 5,
+        "precio": 39.60,
+        "descripcion":"arroz",
+        "clasificacion":"alimentos",
+        "existencia": 20,
+        "min":15,
+        "max":50
+    },
+    {
+        "id": 6,
+        "precio": 26.51,
+        "descripcion":"leche evaporada",
+        "clasificacion":"alimentos",
+        "existencia": 25,
+        "min":5,
+        "max":45
+    },
+    {
+        "id": 7,
+        "precio": 30.50,
+        "descripcion":"azucar morena",
+        "clasificacion":"alimentos",
+        "existencia": 14,
+        "min":10,
+        "max":20
+    },
+    {
+        "id": 8,
+        "precio": 46,
+        "descripcion":"mayonesa",
+        "clasificacion":"alimentos",
+        "existencia": 8,
+        "min":5,
+        "max":30
+    },
+    {
+        "id": 9,
+        "precio": 107.10,
+        "descripcion":"vinagre de manzana",
+        "clasificacion":"alimentos",
+        "existencia": 3,
+        "min":2,
+        "max":20
+    },
+    {
+        "id": 10,
+        "precio": 8.45,
+        "descripcion":"agua mineral",
+        "clasificacion":"bebidas",
+        "existencia": 24,
+        "min":12,
+        "max":48
+    },
+    {
+        "id": 11,
+        "precio": 18.1,
+        "descripcion":"maiz palomero",
+        "clasificacion":"alimentos",
+        "existencia": 30,
+        "min":8,
+        "max":48
+    },
+    {
+        "id": 12,
+        "precio": 95.5,
+        "descripcion":"cafe soluble",
+        "clasificacion":"alimentos",
+        "existencia": 14,
+        "min":10,
+        "max":30
+    },
+    {
+        "id": 13,
+        "precio": 16.25,
+        "descripcion":"jugo",
+        "clasificacion":"bebidas",
+        "existencia": 18,
+        "min":10,
+        "max":20
+    },
+    {
+        "id": 14,
+        "precio": 19.5,
+        "descripcion":"lenteja",
+        "clasificacion":"alimentos",
+        "existencia": 14,
+        "min":8,
+        "max":30
+    },
+    {
+        "id": 15,
+        "precio": 10,
+        "descripcion":"granos de elote",
+        "clasificacion":"alimentos",
+        "existencia": 8,
+        "min":5,
+        "max":25
+    },
+    {
+        "id": 16,
+        "precio": 32,
+        "descripcion":"aceite de soya",
+        "clasificacion":"alimentos",
+        "existencia": 12,
+        "min":5,
+        "max":18
+    },
+    {
+        "id": 17,
+        "precio": 33,
+        "descripcion":"harina para hot cakes",
+        "clasificacion":"alimentos",
+        "existencia": 14,
+        "min":10,
+        "max":50
+    },
+    {
+        "id": 18,
+        "precio": 103.5,
+        "descripcion":"yerba mate",
+        "clasificacion":"alimentos",
+        "existencia": 8,
+        "min":5,
+        "max":10
+    },
+    {
+        "id": 19,
+        "precio": 22.9,
+        "descripcion":"azucar mascabado",
+        "clasificacion":"alimentos",
+        "existencia": 23,
+        "min":15,
+        "max":40
+    },
+    {
+        "id": 20,
+        "precio": 432,
+        "descripcion":"vino tinto",
+        "clasificacion":"bebidas",
+        "existencia": 5,
+        "min":3,
+        "max":12
+    },
+    {
+        "id": 21,
+        "precio": 33.85,
+        "descripcion":"galletas saladas",
+        "clasificacion":"alimentos",
+        "existencia": 25,
+        "min":5,
+        "max":45
+    },
+    {
+        "id": 22,
+        "precio": 7.6,
+        "descripcion":"fideos",
+        "clasificacion":"alimentos",
+        "existencia": 24,
+        "min":20,
+        "max":50
+    },
+    {
+        "id": 23,
+        "precio": 17,
+        "descripcion":"cerveza",
+        "clasificacion":"bebidas",
+        "existencia": 48,
+        "min":24,
+        "max":240
+    },
+    {
+        "id": 24,
+        "precio": 37.9,
+        "descripcion":"caldo de pollo en polvo",
+        "clasificacion":"alimentos",
+        "existencia": 13,
+        "min":5,
+        "max":23
+    },
+    {
+        "id": 25,
+        "precio": 263,
+        "descripcion":"cafe molido",
+        "clasificacion":"alimentos",
+        "existencia": 8,
+        "min":5,
+        "max":20
+    },
+    {
+        "id": 26,
+        "precio": 36,
+        "descripcion":"frijol",
+        "clasificacion":"alimentos",
+        "existencia": 25,
+        "min":20,
+        "max":45
+    },
+    {
+        "id": 27,
+        "precio": 165,
+        "descripcion":"crema de cacahuate",
+        "clasificacion":"alimentos",
+        "existencia": 14,
+        "min":8,
+        "max":15
+    },
+    {
+        "id": 28,
+        "precio": 8.9,
+        "descripcion":"agua tonica",
+        "clasificacion":"bebidas",
+        "existencia": 8,
+        "min":6,
+        "max":24
+    },
+    {
+        "id": 29,
+        "precio": 36,
+        "descripcion":"te de manzanilla",
+        "clasificacion":"alimentos",
+        "existencia": 25,
+        "min":5,
+        "max":45
+    },
+    {
+        "id": 30,
+        "precio": 33.9,
+        "descripcion":"atun",
+        "clasificacion":"alimentos",
+        "existencia": 14,
+        "min":10,
+        "max":50
+    },
+    {
+        "id": 31,
+        "precio": 14.5,
+        "descripcion":"harina de trigo",
+        "clasificacion":"alimentos",
+        "existencia": 8,
+        "min":5,
+        "max":18
+    },
+    {
+        "id": 32,
+        "precio": 15.6,
+        "descripcion":"sal yodada",
+        "clasificacion":"alimentos",
+        "existencia": 20,
+        "min":18,
+        "max":36
+    },
+    {
+        "id": 33,
+        "precio": 76.13,
+        "descripcion":"avena",
+        "clasificacion":"alimentos",
+        "existencia": 12,
+        "min":8,
+        "max":36
+    },
+    {
+        "id": 34,
+        "precio": 29,
+        "descripcion":"canela en rama",
+        "clasificacion":"alimentos",
+        "existencia": 17,
+        "min":5,
+        "max":24
+    },
+    {
+        "id": 35,
+        "precio": 27.9,
+        "descripcion":"mermelada",
+        "clasificacion":"alimentos",
+        "existencia": 6,
+        "min":3,
+        "max":12
+    },
+    {
+        "id": 36,
+        "precio": 23.5,
+        "descripcion":"salsa de soya",
+        "clasificacion":"alimentos",
+        "existencia": 8,
+        "min":5,
+        "max":15
+    },
+    {
+        "id": 37,
+        "precio": 8,
+        "descripcion":"refresco sabor manzana",
+        "clasificacion":"bebidas",
+        "existencia": 36,
+        "min":8,
+        "max":40
+    },
+    {
+        "id": 38,
+        "precio": 12.2,
+        "descripcion":"rajas de jalapeño",
+        "clasificacion":"alimentos",
+        "existencia": 12,
+        "min":10,
+        "max":30
+    },
+    {
+        "id": 39,
+        "precio": 9.73,
+        "descripcion":"sopa instantanea",
+        "clasificacion":"alimentos",
+        "existencia": 40,
+        "min":20,
+        "max":80
+    },
+    {
+        "id": 40,
+        "precio": 249,
+        "descripcion":"almendra entera",
+        "clasificacion":"alimentos",
+        "existencia": 4,
+        "min":2,
+        "max":8
+    },
+    {
+        "id": 41,
+        "precio": 40,
+        "descripcion":"chicharron de cerdo",
+        "clasificacion":"alimentos",
+        "existencia": 12,
+        "min":8,
+        "max":20
+    },
+    {
+        "id": 42,
+        "precio": 40,
+        "descripcion":"hierbas italianas",
+        "clasificacion":"alimentos",
+        "existencia": 11,
+        "min":10,
+        "max":15
+    },
+    {
+        "id": 43,
+        "precio": 32.9,
+        "descripcion":"catsup",
+        "clasificacion":"alimentos",
+        "existencia": 18,
+        "min":12,
+        "max":40
+    },
+    {
+        "id": 44,
+        "precio": 7.41,
+        "descripcion":"mazapan",
+        "clasificacion":"dulces",
+        "existencia": 24,
+        "min":12,
+        "max":36
+    },
+    {
+        "id": 45,
+        "precio": 39.1,
+        "descripcion":"duraznos en almibar",
+        "clasificacion":"alimentos",
+        "existencia": 6,
+        "min":5,
+        "max":10
+    },
+    {
+        "id": 46,
+        "precio": 20,
+        "descripcion":"bebida deportiva",
+        "clasificacion":"bebidas",
+        "existencia": 25,
+        "min":5,
+        "max":45
+    },
+    {
+        "id": 47,
+        "precio": 15,
+        "descripcion":"salsa de habanero",
+        "clasificacion":"alimentos",
+        "existencia": 14,
+        "min":10,
+        "max":30
+    },
+    {
+        "id": 48,
+        "precio": 79,
+        "descripcion":"sustituto de crema",
+        "clasificacion":"alimentos",
+        "existencia": 8,
+        "min":5,
+        "max":20
+    },
+    {
+        "id": 49,
+        "precio": 18,
+        "descripcion":"ajonjoli",
+        "clasificacion":"alimentos",
+        "existencia": 15,
+        "min":10,
+        "max":20
+    },
+    {
+        "id": 50,
+        "precio": 381,
+        "descripcion":"whisky",
+        "clasificacion":"bebidas",
+        "existencia": 8,
+        "min":4,
+        "max":10
+    },
+    {
+        "id": 51,
+        "precio": 172,
+        "descripcion":"desinfectante multiusos",
+        "clasificacion":"limpieza",
+        "existencia": 25,
+        "min":5,
+        "max":45
+    },
+    {
+        "id": 52,
+        "precio": 49,
+        "descripcion":"limpiador liquido",
+        "clasificacion":"limpieza",
+        "existencia": 14,
+        "min":10,
+        "max":50
+    },
+    {
+        "id": 53,
+        "precio": 126,
+        "descripcion":"aerosol desinfectante",
+        "clasificacion":"limpieza",
+        "existencia": 28,
+        "min":20,
+        "max":40
+    },
+    {
+        "id": 54,
+        "precio": 49.4,
+        "descripcion":"toallitas desinfectantes",
+        "clasificacion":"limpieza",
+        "existencia": 25,
+        "min":20,
+        "max":40
+    },
+    {
+        "id": 55,
+        "precio": 39.9,
+        "descripcion": "lavatrastes liquidp",
+        "clasificacion":"limpieza",
+        "existencia": 20,
+        "min":15,
+        "max":30
+    },
+    {
+        "id": 56,
+        "precio": 22.13,
+        "descripcion":"limpiador en polvo",
+        "clasificacion":"limpieza",
+        "existencia": 25,
+        "min":5,
+        "max":45
+    },
+    {
+        "id": 57,
+        "precio": 30,
+        "descripcion":"gel antibacterial",
+        "clasificacion":"limpieza",
+        "existencia": 14,
+        "min":10,
+        "max":80
+    },
+    {
+        "id": 58,
+        "precio": 21.49,
+        "descripcion":"desengrasante para cocina",
+        "clasificacion":"limpieza",
+        "existencia": 8,
+        "min":5,
+        "max":20
+    },
+    {
+        "id": 59,
+        "precio": 67.5,
+        "descripcion":"cloro",
+        "clasificacion":"limpieza",
+        "existencia": 14,
+        "min":10,
+        "max":43
+    },
+    {
+        "id": 60,
+        "precio": 32.22,
+        "descripcion":"aromatizante de ambientes",
+        "clasificacion":"limpieza",
+        "existencia": 17,
+        "min":10,
+        "max":30
+    },
+    {
+        "id": 61,
+        "precio": 365,
+        "descripcion":"cubrebocas",
+        "clasificacion":"cuidado personal",
+        "existencia": 25,
+        "min":5,
+        "max":45
+    },
+    {
+        "id": 62,
+        "precio": 69,
+        "descripcion":"papel higienico",
+        "clasificacion":"cuidado personal",
+        "existencia": 14,
+        "min":10,
+        "max":50
+    },
+    {
+        "id": 63,
+        "precio": 9.90,
+        "descripcion":"suavizante de ropa",
+        "clasificacion":"limpieza",
+        "existencia": 8,
+        "min":5,
+        "max":25
+    },
+    {
+        "id": 64,
+        "precio": 32.7,
+        "descripcion":"servilletas",
+        "clasificacion":"limpieza",
+        "existencia": 12,
+        "min":7,
+        "max":19
+    },
+    {
+        "id": 65,
+        "precio": 225.01,
+        "descripcion":"protector solar",
+        "clasificacion":"cuidado personal",
+        "existencia": 7,
+        "min":4,
+        "max":15
+    },
+    {
+        "id": 66,
+        "precio": 61,
+        "descripcion":"pasta dental",
+        "clasificacion":"cuidado personal",
+        "existencia": 25,
+        "min":5,
+        "max":45
+    },
+    {
+        "id": 67,
+        "precio": 125,
+        "descripcion":"crema hidratante",
+        "clasificacion":"cuidado personal",
+        "existencia": 14,
+        "min":10,
+        "max":23
+    },
+    {
+        "id": 68,
+        "precio": 139,
+        "descripcion":"detergente liquido",
+        "clasificacion":"limpieza",
+        "existencia": 8,
+        "min":5,
+        "max":16
+    },
+    {
+        "id": 69,
+        "precio": 35.9,
+        "descripcion":"jabon liquido para manos",
+        "clasificacion":"limpieza",
+        "existencia": 23,
+        "min":20,
+        "max":50
+    },
+    {
+        "id": 70,
+        "precio": 34.9,
+        "descripcion":"cepillo de dientes",
+        "clasificacion":"cuidado personal",
+        "existencia": 21,
+        "min":15,
+        "max":30
+    },
+    {
+        "id": 71,
+        "precio": 66.9,
+        "descripcion":"jabon de tocador",
+        "clasificacion":"cuidado personal",
+        "existencia": 28,
+        "min":5,
+        "max":45
+    },
+    {
+        "id": 72,
+        "precio": 40,
+        "descripcion":"desodorante",
+        "clasificacion":"cuidado personal",
+        "existencia": 14,
+        "min":10,
+        "max":50
+    },
+    {
+        "id": 73,
+        "precio": 64.9,
+        "descripcion":"shampoo",
+        "clasificacion":"cuidado personal",
+        "existencia": 8,
+        "min":5,
+        "max":19
+    },
+    {
+        "id": 74,
+        "precio": 64.9,
+        "descripcion":"acondicionador",
+        "clasificacion":"cuidado personal",
+        "existencia": 11,
+        "min":5,
+        "max":19
+    },
+    {
+        "id": 75,
+        "precio": 250,
+        "descripcion":"tequila",
+        "clasificacion":"bebidas",
+        "existencia": 5,
+        "min":3,
+        "max":7
+    },
+    {
+        "id": 76,
+        "precio": 88,
+        "descripcion":"desmaquillante",
+        "clasificacion":"cuidado personal",
+        "existencia": 12,
+        "min":10,
+        "max":20
+    },
+    {
+        "id": 77,
+        "precio": 51.43,
+        "descripcion":"desodorante para pies",
+        "clasificacion":"cuidado personal",
+        "existencia": 9,
+        "min":5,
+        "max":23
+    },
+    {
+        "id": 78,
+        "precio": 19,
+        "descripcion":"pomada",
+        "clasificacion":"cuidado personal",
+        "existencia": 8,
+        "min":5,
+        "max":17
+    },
+    {
+        "id": 79,
+        "precio": 109.01,
+        "descripcion":"cartucho para afeitar",
+        "clasificacion":"cuidado personal",
+        "existencia": 4,
+        "min":4,
+        "max":23
+    },
+    {
+        "id": 80,
+        "precio": 69.99,
+        "descripcion":"espuma para afeitar",
+        "clasificacion":"cuidado personal",
+        "existencia": 8,
+        "min":5,
+        "max":20
+    }
+]
